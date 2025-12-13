@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Klint M. Ruales (He/Him) 👋
 
 <!--
 **klint-droid/klint-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
