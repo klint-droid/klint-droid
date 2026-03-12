@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=klint-droid&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=klint-droid&theme=gruvbox&hide_border=false&cache_seconds=1800)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=klint-droid&theme=gruvbox&layout=compact&langs_count=10&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=klint-droid&theme=gruvbox&layout=compact&langs_count=20&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=klint-droid&theme=radical&no-frame=false&no-bg=false&margin-w=4&cache_seconds=1800r)
