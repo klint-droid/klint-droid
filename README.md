@@ -21,6 +21,17 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=klint-droid&limit=5&theme=dark&combine_all_yearly_contributions=true&cache_seconds=1800)
 
+## 📊 Skill Focus
+
+💻 **Software Development**  
+████████████████░░░░ 65%
+
+⚙️ **Automation / DevOps**  
+███████░░░░░░░░░░░ 25%
+
+🤖 **Machine Learning**  
+█████░░░░░░░░░░░░░ 10%
+
 ---
 [![](https://visitcount.itsvg.in/api?id=klint-droid&icon=0&color=0)](https://visitcount.itsvg.in)
 
