@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently learning: Java (Object-Oriented Programming), Python for Data Analysis, Node.js & React for Web Development, and CI/CD with Jenkins.
+🌱 Currently learning: C# and Java (Object-Oriented Programming), Python for Data Analysis, Node.js & React for Web Development, and CI/CD with Jenkins.
 
 
 ## 🌐 Socials:
